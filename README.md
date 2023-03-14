@@ -57,9 +57,12 @@ Total Premium (with 5% increase P.A.)**
 
 
 
-* We have defined ‘High Value Customers’ as customers who contribute to 80 percent of the company’s 
-positive net revenue.2 Net revenue is defined as the difference between the total premium paid by the 
+* We have defined ‘High Value Customers’ as customers who contribute to **80 percent** of the company’s 
+positive net revenue.
+
+* Net revenue is defined as the difference between the total premium paid by the 
 customer over the lifetime of the policy and the claim amount. 
+
 * To calculate the total positive net revenue, we have considered the subset of customers with positive net 
 revenue.
 
