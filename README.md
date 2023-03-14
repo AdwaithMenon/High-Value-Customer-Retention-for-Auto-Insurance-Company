@@ -71,7 +71,7 @@ revenue.
 ### **Recommendations**
 
 
-#### ** a) Customer Retention Strategies**
+#### **a) Customer Retention Strategies**
 
 • Since more than 50% of the high_value customers fall between the ages of 29 & 43 and 
 most people start owning houses at this age , additional home insurance could be offered 
@@ -90,7 +90,7 @@ check-ins and personalized support to ensure customer satisfaction
 
 
 
-#### ** b) Customer Acquisition Strategies**
+#### **b) Customer Acquisition Strategies**
 
 • Michigan, Wyoming, Alabama, and Minnesota account to a mere 9% of the entire 
 customer base but consist of a huge percentage of the high valued customers. Targeted 
