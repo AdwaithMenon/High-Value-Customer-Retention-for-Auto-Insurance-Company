@@ -39,4 +39,21 @@ some recommendations for the buffalo insurance company.
 
 ### **Assumptions**
 
+The annual premium provided in the dataset is the cumulative annual premium of the current year.
+
+**Assumption 1** : Hence, we have assumed that the annual premium paid by a customer increases every 
+year **@ 5% P.A.** over the lifetime of the policy1. This has been taken into consideration for calculating the 
+total premium paid by the customer over the lifetime of the policy. 
+
+**Assumption 2 :** We have assumed that the annual_premium paid by the customer is not affected by 
+whether or not a customer has made a claim or not.
+
+Change factor has been calculated by dividing the total premium paid by the customer without 
+considering 5% annual increase to the total premium paid by the customer with 5 % annual increase in 
+premium.
+
+**Change_Factor = Total Premium (without 5% annual increase ) ÷
+Total Premium (with 5% increase P.A.)**
+
+
 ### **Recommendations**
