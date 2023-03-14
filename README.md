@@ -28,7 +28,7 @@ Coming to pre-processing, the dataset is merged into a single file. Next, we pro
 preprocessing procedures like checking for null values or outliers. Further we came up with OUR (“time 
 Travelers”) definition of HIGH VALUE CUSTOMER. In addition to that, new variables were created by 
 feature engineering methods to reduce the complexity of the dataset, for example making it effective.
-In pre-processing, the two datasets are combined into a single file. Next, we proceeded with basic preprocessing procedures like checking for null values or outliers.
+In pre-processing, the two datasets are combined into a single file. Next, we proceeded with basic pre-processing procedures like checking for null values or outliers.
 In our next step, we came up with our (“Time Travelers”) definition of a HIGH-VALUE customer. Further, 
 new variables are created by feature engineering methods to reduce the complexity of the dataset, for 
 example making effective use of acceleration values. We also discarded some values that retain redundant 
