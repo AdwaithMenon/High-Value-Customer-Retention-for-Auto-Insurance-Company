@@ -59,7 +59,7 @@ Total Premium (with 5% increase P.A.)**
 
 
 
-* We have defined ‘High Value Customers’ as customers who contribute to **80 percent** of the company’s 
+* We have defined **‘High Value Customers’** as customers who contribute to **80 percent** of the company’s 
 positive net revenue.
 
 * Net revenue is defined as the difference between the total premium paid by the 
@@ -70,19 +70,24 @@ revenue.
 
 ### **Recommendations**
 
+
 #### **Customer Retention Strategies**
 
 • Since more than 50% of the high_value customers fall between the ages of 29 & 43 and 
 most people start owning houses at this age , additional home insurance could be offered 
 in combination with the car insurance at attractive prices / premiums . This could be a 
 huge incentive to the ‘high_value’ customers and can encourage them to stay with Blue 
-Buffalo Insurance
+Buffalo Insurance.
+
 • Since ‘high_value’ customers have made no claims during the lifetime of their policy , they 
 should be offered a no-claim bonus. This bonus could be offered at the time of every 
 renewal. The bonus amount could be calculated based on the number of years the 
 customer has been associated with Blue Buffalo Insurance.
+
 • Direct maximum resources towards the high valued customers by providing regular 
 check-ins and personalized support to ensure customer satisfaction
+
+
 
 
 #### **Customer Acquisition Strategies**
@@ -90,6 +95,7 @@ check-ins and personalized support to ensure customer satisfaction
 • Michigan, Wyoming, Alabama, and Minnesota account to a mere 9% of the entire 
 customer base but consist of a huge percentage of the high valued customers. Targeted 
 marketing should be done to acquire more customers from these states.
+
 • Utilize the list of high-valued customers in order to get referrals of other customers which 
 leads to – low acquisition rate and potentially an increase in the number of high valued 
 customers
