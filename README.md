@@ -2,6 +2,7 @@
 
 #### _Case Competition : Winner of 2022 Travelers Business Insights & Analytics LDP Case Competition_
 
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/70052374/224926401-2273b8a2-e108-478f-87d8-f4c850e0fc8e.png">
 
 ### **Business Case**
 
