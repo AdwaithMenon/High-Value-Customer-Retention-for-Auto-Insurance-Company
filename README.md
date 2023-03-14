@@ -1,10 +1,10 @@
-## High-Value-Customer-Retention-for-Auto-Insurance-Company
+# High-Value-Customer-Retention-for-Auto-Insurance-Company
 
-#### _Case Competition : Winner of 2022 Travelers Business Insights & Analytics LDP Case Competition_
+### _Case Competition : Winner of 2022 Travelers Business Insights & Analytics LDP Case Competition_
 
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/70052374/224926401-2273b8a2-e108-478f-87d8-f4c850e0fc8e.png">
 
-### **Business Case**
+## **Business Case**
 
 We are a group of Data Analysts working for Blue Buffalo Insurance, a property casualty insurance company 
 based in downtown Hartford, Connecticut. Our business partner wants us to conduct a thorough analysis using 
@@ -18,7 +18,7 @@ tracks the customers' driving habits. The goal here is to identify a subset of '
 recommend retention strategies to Blue Buffalo Insurance executives.
 
 
-### **Project Description**
+## **Project Description**
 
 In this case competition, we intend to analyze the dynamics that differentiate high-value customers. These 
 dynamics will be of interest for the blue buffalo insurance company as they contribute to 80% of revenue.
@@ -37,7 +37,7 @@ Finally, we found traits that can be attributed to high-value customers. Through
 customers who could be classified as “high value customers”. Based on the findings we came up with 
 some recommendations for the buffalo insurance company.
 
-### **Assumptions**
+## **Assumptions**
 
 The annual premium provided in the dataset is the cumulative annual premium of the current year.
 
@@ -68,10 +68,10 @@ customer over the lifetime of the policy and the claim amount.
 * To calculate the total positive net revenue, we have considered the subset of customers with positive net 
 revenue.
 
-### **Recommendations**
+## **Recommendations**
 
 
-#### **a) Customer Retention Strategies**
+### **a) Customer Retention Strategies**
 
 • Since more than 50% of the high_value customers fall between the ages of 29 & 43 and 
 most people start owning houses at this age , additional home insurance could be offered 
@@ -90,7 +90,7 @@ check-ins and personalized support to ensure customer satisfaction
 
 
 
-#### **b) Customer Acquisition Strategies**
+### **b) Customer Acquisition Strategies**
 
 • Michigan, Wyoming, Alabama, and Minnesota account to a mere 9% of the entire 
 customer base but consist of a huge percentage of the high valued customers. Targeted 
