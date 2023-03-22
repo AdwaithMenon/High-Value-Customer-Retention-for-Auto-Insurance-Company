@@ -1,4 +1,4 @@
-# High-Value-Customer-Retention-for-Auto-Insurance-Company
+# _**High Value Customer Retention for Auto Insurance Company**_
 
 ### _Case Competition : Winner of 2022 Travelers Business Insights & Analytics LDP Case Competition_
 
